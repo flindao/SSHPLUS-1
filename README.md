@@ -2,6 +2,7 @@
 
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/flindao/SSHPLUS-1/master/Plus && chmod 777 Plus && ./Plus
 
+KEY - qraKatsil/?6%3@8b86dea%%7/8888:0?+60@+@@?+89@
 
 #Acessa Root
 
